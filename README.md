@@ -1,1 +1,1 @@
-# kakao_mobile
+# kakaoFriends
